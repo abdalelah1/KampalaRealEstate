@@ -1,0 +1,34 @@
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\bin\Debug\net9.0\appsettings.json
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\bin\Debug\net9.0\Kampala Real Estate.staticwebassets.endpoints.json
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\bin\Debug\net9.0\Kampala Real Estate.exe
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\bin\Debug\net9.0\Kampala Real Estate.deps.json
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\bin\Debug\net9.0\Kampala Real Estate.runtimeconfig.json
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\bin\Debug\net9.0\Kampala Real Estate.dll
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\bin\Debug\net9.0\Kampala Real Estate.pdb
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala Real Estate.csproj.AssemblyReference.cache
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala Real Estate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala Real Estate.AssemblyInfoInputs.cache
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala Real Estate.AssemblyInfo.cs
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala Real Estate.csproj.CoreCompileInputs.cache
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala Real Estate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala Real Estate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\scopedcss\bundle\Kampala Real Estate.styles.css
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\staticwebassets\msbuild.Kampala Real Estate.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\staticwebassets\msbuild.Kampala Real Estate.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\staticwebassets\msbuild.build.Kampala Real Estate.props
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Kampala Real Estate.props
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Kampala Real Estate.props
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala .983A6B6A.Up2Date
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala Real Estate.dll
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\refint\Kampala Real Estate.dll
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala Real Estate.pdb
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\Kampala Real Estate.genruntimeconfig.cache
+C:\Users\L\source\repos\Kampala Real Estate\Kampala Real Estate\obj\Debug\net9.0\ref\Kampala Real Estate.dll

@@ -1,0 +1,6 @@
+@Kampala_Real_Estate_HostAddress = http://localhost:5173
+
+GET {{Kampala_Real_Estate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
